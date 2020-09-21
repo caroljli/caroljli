@@ -1,5 +1,10 @@
-### Hi there 👋
+# hello! nice to meet you 🍊
 
+i'm currently a junior studying computer science & statistics at the university of pennsylvania. i'm interested in design, dev, and writing.
+
+some things i'm currently working on are for [@hack4impact](http://github.com/hack4impactpenn) and [@thesignalteam](http://github.com/thesignalteam). in the past, i've been involved in [@google](http://github.com/google) as a software engineering intern on the maps team.
+
+reach out to me at my [email](mailto:caroldotli@gmail.com) if you want to chat! 
 <!--
 **caroljli/caroljli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
