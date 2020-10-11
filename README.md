@@ -1,6 +1,6 @@
 # hello! nice to meet you 🍊
 
-i'm currently a junior studying computer science & statistics at the university of pennsylvania. i'm interested in design, dev, and writing.
+i'm (she/her/her) currently a junior studying computer science & statistics at the university of pennsylvania. i'm interested in design, dev, and writing.
 
 some things i'm currently working on are for [@hack4impact](http://github.com/hack4impactpenn) and [@thesignalteam](http://github.com/thesignalteam). in the past, i've been involved in [@google](http://github.com/google) as a software engineering intern on the maps team.
 
