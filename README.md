@@ -2,7 +2,7 @@
 
 i'm (she/her/her) currently a junior studying computer science, statistics, & data science at the university of pennsylvania. i'm interested in design, dev, and writing.
 
-some things i'm currently working on are for [@hack4impact](http://github.com/hack4impactpenn). in the past, i've been involved in [@google](http://github.com/google) as an intern on the maps team and [@thesignalteam](http://github.com/thesignalteam) as a full-stack dev for data-driven impactful student projects.
+i'm currently working on is a sms chatboard coach dashboard for [coachme health](https://www.coachmehealth.org/) under [@hack4impact](http://github.com/hack4impactpenn). in the past, i've been involved in [@google](http://github.com/google) as an intern on the maps team and [@thesignalteam](http://github.com/thesignalteam) as a full-stack dev for data-driven impactful student projects.
 
 reach out to me at my [email](mailto:caroldotli@gmail.com) if you want to chat! 
 <!--
